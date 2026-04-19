@@ -1,0 +1,76 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: black;
+  color: white;
+  user-select: none;
+}
+
+
+@layer base{
+  .main-layout{
+    @apply flex justify-between items-center px-10 font-bold bg-stone-900 py-3 w-[100%]  
+  } 
+  .main-navbar ul{
+    @apply hidden sm:flex space-x-16 
+  }
+  .main-content{
+    @apply max-lg:pt-3 sm:flex justify-around m-2 w-[100%] px-5
+  }
+  .main-left{
+    @apply max-lg:w-[100%] sm:pt-20 block space-y-10 w-[50%] 
+  }
+  .main-left h2{
+    @apply sm:font-bold text-2xl pb-3 block space-y-32
+  }
+  .first-letter{
+   @apply max-lg:text-[50px] text-orange-600 sm:text-orange-600 font-extrabold text-[100px] mb-10
+  }
+  .second-letter{
+    @apply sm:font-extrabold text-[30px] 
+  }
+  .main-right{
+    @apply max-lg:w-[100%] my-10 sm:w-[50%]
+  }
+  .describe{
+    @apply font-bold block space-y-8
+  }
+  .main-right img{
+   @apply max-lg:h-[12rem] sm:max-h-[36.3rem] w-[100%]
+  }
+  .btns{
+    @apply max-lg:hidden w-[20rem] flex justify-center space-x-10
+    sm:mt-24
+  }
+  .prev-btn{
+    @apply w-28 bg-red-800 rounded-sm border-none h-10 font-bold text-lg
+  }
+  .next-btn{
+    @apply w-28 bg-teal-600 rounded-sm border-none h-10 font-bold text-lg
+  }
+  .login-btn .log{
+    @apply max-lg:hidden sm:w-28 h-9 border-blue-600 border-2 font-bold  rounded-sm 
+  }
+
+  .more-option{
+    @apply font-bold text-[25px] sm:hidden
+  }
+  .cross-btn{
+    @apply sm:hidden
+  }
+
+/*second page style start */
+
+
+.cardss{
+  @apply max-lg:grid-cols-1 mt-5   sm:mt-5 grid grid-cols-4 items-center ml-6 space-y-4 
+}
+.img-field{
+  @apply w-[100%] h-40 mt-1
+}
+ .cardo{
+  @apply w-80 h-80 bg-slate-100 text-black font-bold rounded-md 
+ }
+}  

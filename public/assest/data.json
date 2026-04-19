@@ -1,0 +1,69 @@
+[
+    {
+        "id":1,
+        "name":"Rashid khan",
+        "img":"/assest/cricket/Facebook/rashid.jpg",
+        "imge":"/assest/cricket/Facebook/rashid1.jpg",
+        "shortDes":"19th number shirt",
+        "Description":"Rashid khan is a best bowling all-rounder in the all world he is the number one t20 bowler besides khan is the captain of Afghanistan Cricket team in t20 format he plays cricket in alot of league in diffrent countries such as : IPL, PSL , APL ,SHPAGEEZA,CRIBEN, HUNDRED BALLS ,BIG BASH and e.t.c he recived Afghanistan cricket to semi-final in 2024 t20 cricket world cup which played in west-indies and United-state of America According my opinion Rashid is a king "
+    },
+    {
+        "id":2,
+        "name": "Rahman Ullah Gurbaz",
+        "img":"/assest/cricket/Facebook/gurbaz1.jpg",
+        "imge":"/assest/cricket/Facebook/Gurbaz.jpg",
+         "shortDes":"21th number shirt",
+        "Description":"Rahman ullah gurbaz is a best wicket-keeper batsman in the all world he is the very fast batter besides gurbaz is the good keeper of Afghanistan Cricket team in all formats he plays cricket in alot of league in diffrent countries such as : IPL, PSL , APL ,SHPAGEEZA,CRIBEN, HUNDRED BALLS ,BIG BASH and e.t.c he recived Afghanistan cricket to semi-final in 2024 t20 cricket world cup which played in west-indies and United-state of America According my opinion Rahman ullah gurbar is a baz "
+    },
+    {
+        "id":3,
+        "name": "Ibrahim Zadran",
+        "img":"/assest/cricket/Facebook/ibrahim.jpg",
+        "imge":"/assest/cricket/Facebook/ibrahim1.jpg",
+         "shortDes":"18 th number shirt",
+        "Description":"Ibrahim Zadran is a best batsman in the all world he is the very classic batter besides zadran is the good fielder of Afghanistan Cricket team in all formats he plays cricket in alot of league in diffrent countries such as : PSL , APL ,SHPAGEEZA,CRIBEN,BPL and e.t.c he recived Afghanistan cricket to semi-final in 2024 t20 cricket world cup which played in west-indies and United-state of America According my opinion Ibrahim zadran is a second virat kohli zadran is the voice captain of Afghanistan cricket team in t20 format "
+    },
+      {
+        "id":4,
+        "name": "Azmat Ullah Omarzai",
+        "img":"/assest/cricket/Facebook/azmatkhan.jpg",
+        "imge":"/assest/cricket/Facebook/omarzai.jpg",
+         "shortDes":"9 th number shirt",
+        "Description":"Azmat Ullah Omarzai is a fantastic all-rounder in the all world he is the very classic batter besides omarzai is also a good bowler of Afghanistan Cricket team in all formats he plays cricket in alot of league in diffrent countries such as : IPL,PSL , APL ,SHPAGEEZA,CRIBEN,BPL and e.t.c he recived Afghanistan cricket to semi-final in 2024 t20 cricket world cup which played in west-indies and United-state of America According my opinion Azmat ullah omarzai is like a joy kalles he was a good all-rounder in south africa cricket team azmat is the good atacker of Afghanistan cricket team in t20 format "
+    },
+  
+    {
+        "id":5,
+        "name": "Fazal haq farooqi",
+        "img":"/assest/cricket/Facebook/farooqi.jpg",
+        "imge":"/assest/cricket/Facebook/fazal.jpg",
+         "shortDes":"5 th number shirt",
+        "Description":"Fazal haq farooqi  is a fantastic Bowler in the all world he is the very classic bowler besides farooqi has also a good change of pace bowler of Afghanistan Cricket team in all formats he plays cricket in alot of league in diffrent countries such as : IPL,PSL , APL ,SHPAGEEZA,CRIBEN,BPL and e.t.c he recived Afghanistan cricket to semi-final in 2024 t20 cricket world cup which played in west-indies and United-state of America According my opinion Fazal haq farooqi is like a zaheer khan he was a good bowler in indian cricket team azmat is the good atacker of Afghanistan cricket team in t20 format "
+    }, 
+    
+  
+    {
+        "id":6,
+        "name": "Gulbaden Naib",
+        "img":"/assest/cricket/Facebook/gulbaden.jpg",
+        "imge":"/assest/cricket/Facebook/gulbaden1.jpg",
+         "shortDes":"14 th number shirt",
+        "Description":"Gulbaden Naib  is a fantastic all-rounder in the all world he is the very classic batter besides Naib is also a good bowler of Afghanistan Cricket team in all formats he plays cricket in alot of league in diffrent countries such as : IPL,PSL , APL ,SHPAGEEZA,CRIBEN,BPL and e.t.c he recived Afghanistan cricket to semi-final in 2024 t20 cricket world cup which played in west-indies and United-state of America According my opinion Gulbaden Naib is like a Marcus stonis he is a fantastic all-rounder in Australia cricket team Gulbaden Naib is the good middle overs bowler of Afghanistan cricket team in all formats "
+    },
+      {
+        "id":7,
+        "name": "Mujeeb Zadran",
+        "img":"/assest/cricket/Facebook/mujeeb.jpg",
+        "shortDes":"88 th number shirt",
+        "Description":"Mujeeb Zadran is a fantastic all-rounder in the all world he is the very classic batter besides Mujeeb is also a good bowler of Afghanistan Cricket team in all formats he plays cricket in alot of league in diffrent countries such as : IPL,PSL , APL ,SHPAGEEZA,CRIBEN,BPL and e.t.c he recived Afghanistan cricket to semi-final in 2024 t20 cricket world cup which played in west-indies and United-state of America According my opinion Mujeeb zadran is like Ashwin he was a good all-rounder in india cricket team Mujeeb is the good atacker of Afghanistan cricket team in all formats he is very simple guy "
+    },
+  {
+        "id":8,
+        "name": "Abdullah Ahmadzai",
+        "img":"/assest/cricket/Facebook/abdullah.jpg",
+        "imge":"/assest/cricket/Facebook/ahmadzai.jpg",
+         "shortDes":"51 th number shirt",
+        "Description":"Abdullah Ahmadzai is a fantastic all-rounder in the all world he is the very classic batter besides Ahmadzai is also a good bowler of Afghanistan Cricket team in all formats he plays cricket in alot of league in diffrent countries such as : APL ,SHPAGEEZA and e.t.c he recived Afghanistan cricket to semi-final in 2024 t20 cricket world cup which played in west-indies and United-state of America According my opinion Azmat ullah omarzai is like a Dawlat zadran he was a good all-rounder in Afghanistan cricket team Abdullah is the good atacker of Afghanistan cricket team in t20 format "
+    }
+
+]

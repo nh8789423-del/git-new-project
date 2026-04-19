@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"Rashid khan",
+        "img":"/assest/cricket/rashid.jpg",
+        "img1":"/assest/cricket/rashid1.jpg",
+        "Description":"Rashid khan is a best bowling all-rounder in the all world he is the number one t20 bowler besides khan is the captain of Afghanistan Cricket team in t20 format he plays cricket in alot of league in diffrent countries such as : IPL, PSL , APL ,SHPAGEEZA,CRIBEN, HUNDRED BALLS ,BIG BASH and e.t.c he recived Afghanistan cricket to semi-final in 2024 t20 cricket world cup which played in west-indies and United-state of America According my opinion Rashid is a king "
+    },
+    {
+        "id":2,
+        "name": "Rahman Ullah Gurbaz",
+        "img":"/assest/cricket/gurbaz1.jpg",
+        "Description":"Rahman ullah gurbaz is a best wicket-keeper batsman in the all world he is the very fast batter besides gurbaz is the good keeper of Afghanistan Cricket team in all formats he plays cricket in alot of league in diffrent countries such as : IPL, PSL , APL ,SHPAGEEZA,CRIBEN, HUNDRED BALLS ,BIG BASH and e.t.c he recived Afghanistan cricket to semi-final in 2024 t20 cricket world cup which played in west-indies and United-state of America According my opinion Rahman ullah gurbar is a baz "
+    },
+    {
+        "id":3,
+        "name": "Ibrahim Zadran",
+        "img":"/assest/cricket/ibrahim.jpg",
+        "img1":"/assest/cricket/ibrahim1.jpg",
+        "Description":"Ibrahim Zadran is a best batsman in the all world he is the very classic batter besides zadran is the good fielder of Afghanistan Cricket team in all formats he plays cricket in alot of league in diffrent countries such as : PSL , APL ,SHPAGEEZA,CRIBEN,BPL and e.t.c he recived Afghanistan cricket to semi-final in 2024 t20 cricket world cup which played in west-indies and United-state of America According my opinion Ibrahim zadran is a second virat kohli zadran is the voice captain of Afghanistan cricket team in t20 format "
+    },
+    {
+        "id":4,
+        "name": "Azmat Ullah Omarzai",
+        "img":"/assest/cricket/azmatkhan.jpg",
+        "img1":"/assest/cricket/omarzai.jpg",
+        "Description":"Azmat Ullah Omarzai is a fantastic all-rounder in the all world he is the very classic batter besides omarzai is also a good bowler of Afghanistan Cricket team in all formats he plays cricket in alot of league in diffrent countries such as : IPL,PSL , APL ,SHPAGEEZA,CRIBEN,BPL and e.t.c he recived Afghanistan cricket to semi-final in 2024 t20 cricket world cup which played in west-indies and United-state of America According my opinion Azmat ullah omarzai is like a joy kalles he was a good all-rounder in south africa cricket team azmat is the good atacker of Afghanistan cricket team in t20 format "
+    }
+
+]
